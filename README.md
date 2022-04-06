@@ -1,2 +1,1 @@
-"# ci4" 
-ini adalah kelas latihan git dan vi4
+ini adalah kelas latihan git dan Code Igniter 4
